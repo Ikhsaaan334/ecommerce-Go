@@ -2,7 +2,7 @@
 
 Personal project e-commerce sederhana dengan frontend vanilla JavaScript dan backend Go modular monolith. Project ini menggunakan SQLite sehingga mudah dijalankan secara lokal tanpa database server tambahan.
 
-Project ini juga digunakan sebagai sarana belajar Go secara bertahap melalui project nyata. Fokusnya bukan hanya membuat aplikasi selesai, tetapi memahami bagaimana aplikasi Go disusun, diuji, dan dikembangkan dari fitur sederhana hingga fitur e-commerce yang lebih lengkap.
+Project ini juga digunakan sebagai sarana belajar Go.
 
 ## Fitur
 
